@@ -56,8 +56,8 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
   </tr>
 </table>
 <img src="screenshots/lid_moving_correctly.PNG" width="500"/>
-<video src="https://github.com/user-attachments/assets/b0351d79-1c28-449f-9fe1-353294766585" width="100%" autoplay loop muted playsinline></video>
-<video src="https://github.com/user-attachments/assets/dff85f6e-f319-46d1-a9ca-30c10c653bd3" width="100%" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/aea3cb03-36c2-43cb-8b7e-1bcecb742a13" width="100%" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/e3db453a-b6fd-4086-a9a5-6b308e6034e0" width="100%" autoplay loop muted playsinline></video>
 
 ---
 
